@@ -1,3 +1,5 @@
+//forCheck
+
 import java.util.Scanner;
 
 public class ArrayTask3 {
